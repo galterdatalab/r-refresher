@@ -19,11 +19,7 @@ We will use an R Markdown document to go through examples from the topics above.
 
 ### R and R Studio Setup
 
-Please see the installation instructions on the [Summer workshop page](https://sites.northwestern.edu/summerworkshops/resources/software-installation/).
-
-### Downloading this project from GitHub
-
-Please see the instructions [here](https://sites.northwestern.edu/summerworkshops/resources/downloading-from-github/).
+Please see the [these R and R Studio installation instructions](https://github.com/galterdatalab/r-refresher/blob/main/installing_RStudio.md).
 
 ## Authors
 
