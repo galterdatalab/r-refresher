@@ -23,4 +23,4 @@ Please see the [these R and R Studio installation instructions](https://github.c
 
 ## Authors
 
-**Matt Carson** - [Kaars](https://github.com/kaars)
+[Carsonicator](https://github.com/carsonicator)
