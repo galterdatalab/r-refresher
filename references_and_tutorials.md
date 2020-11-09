@@ -9,6 +9,7 @@
     * [Cross Validated](https://stats.stackexchange.com/)
     * [Stack Exchange](https://stackexchange.com)
 3. **Online Training**
+    * [LinkedIn Learning](https://www.linkedin.com/learning/search?keywords=r&u=75814418) (Available free to Northwestern members)
     * [Data Camp](https://www.datacamp.com/courses/tech:r)
 4. **Books**
     * [The Art of R Programming](https://www.amazon.com/Art-Programming-Statistical-Software-Design/dp/1593273843)
@@ -17,7 +18,7 @@
     * [R Cookbook](https://www.amazon.com/Cookbook-Analysis-Statistics-Graphics-Cookbooks/dp/0596809158)
 5. **Cheatsheets**
     * [Base R](https://www.rstudio.com/wp-content/uploads/2016/05/base-r.pdf)
-    * [Tidyverse for Beginners](https://datacamp-community.s3.amazonaws.com/e63a8f6b-2aa3-4006-89e0-badc294b179c)
+    * [Tidyverse for Beginners](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Tidyverse+Cheat+Sheet.pdf)
     * [Data Wrangling](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
     * [Several Cheatsheets (from R Studio)](https://www.rstudio.com/resources/cheatsheets/)
 6. **Other R Support**
